@@ -1,11 +1,13 @@
 # 👋 Hola, soy Damiem Rave
 
-🎓 Estudiante de 2º de **Desarrollo Full Stack** en Tajamar
+🎓 Estudiante de **Desarrollo Full Stack y Arquitecturas Cloud** en Tajamar
 
-💻 Aprendiendo:
-- Front-end: HTML5, CSS3, JavaScript
+💻 Herramientas:
 - Back-end: PHP, Java
+- Front-end: HTML5, CSS3, JavaScript
 - Bases de datos: MySQL
+- Cloud: AWS
 - Herramientas: Git, GitHub
 
 📫 Contacto: dravegrizales@gmail.com
+📍Ubicación: Madrid
