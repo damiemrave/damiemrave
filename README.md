@@ -1,6 +1,6 @@
 # 👋 Hola, soy Damiem Rave
 
-🎓 Estudiante de **Desarrollo Full Stack y Arquitecturas Cloud** en Tajamar
+🎓 Estudiante de máster en **Desarrollo Full Stack y Arquitecturas Cloud** en Tajamar
 
 💻 Herramientas:
 - Back-end: PHP, Java
